@@ -1,1 +1,1 @@
-My rcos-status-updates for each week. Please see conclusion for this semester to check what I have done for this semester.
+My rcos-status-updates for each week. Please see conclusion for this semester to check what I have done for this semester. Files in rcos are some codes I wrote or I wrote with my teammates for this semester.
